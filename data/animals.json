@@ -117,6 +117,13 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "Cat",
+      "species": "Meow",
+      "diet": "herbivore",
+      "personalityTraits": [],
+      "id": "12"
     }
   ]
 }
